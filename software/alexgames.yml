@@ -1,0 +1,17 @@
+name: "AlexGames"
+website_url: "https://github.com/alexbarry/AlexGames"
+source_code_url: "https://github.com/alexbarry/AlexGames"
+description: "Simple Lua board/arcade games platform, playable in a browser. Some games: solitaire, minesweeper, word puzzles, go, chess, checkers. Supports network/local multiplayer, uploading custom games, exporting state via URL."
+licenses:
+  - GPL-3.0
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+platforms:
+  - Lua
+  - Python
+  - C
+  - C++
+  - Docker
+tags:
+  - Games
+depends_3rdparty: false
+demo_url: "https://alexbarry.github.io/AlexGames/"
